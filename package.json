@@ -1,0 +1,25 @@
+{
+  "name": "final_year_project_backend_server",
+  "version": "1.0.0",
+  "description": "setting up a nodeJS server to take input from browser a python code Evaluate the user input using my NLP_Algorithm and provide output",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conx42/final_year_server.git"
+  },
+  "author": "Sangramjit Roy_CSE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conx42/final_year_server/issues"
+  },
+  "homepage": "https://github.com/conx42/final_year_server#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
